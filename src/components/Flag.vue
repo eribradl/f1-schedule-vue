@@ -34,6 +34,6 @@ export default {
 
 <style>
 img { 
-    height: 20vh;
+    height: 15vh;
 }
 </style>

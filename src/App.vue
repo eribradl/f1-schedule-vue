@@ -46,7 +46,8 @@ export default defineComponent({
 
 <style>
 .carousel {
-  max-width: 80vw;
+  margin: auto;
+  max-width: 90vw;
   width: 100%;
 }
 .carousel__item {
